@@ -34,7 +34,7 @@ I really learned about shaders. Although the shaders I used were quite simple, b
 
 I hope to add polish by adding generative music using tone.js, changes as the player moves. the game already makes you feel like moving around your space and i think music would only encourage this.
 
-I am also excited to improve the levels by both adding more and improving the existing ones. I didn't have much of an idea of scale when I built the existing ones which makes it fiendishly challenging.
+I am also excited to improve the levels by both adding more and improving the existing ones. I didn't have much of an idea of scale when I built the existing ones which makes them fiendishly challenging.
 
 ## Project setup
 
